@@ -1,6 +1,13 @@
 # App
 
-Gympass style app back-end.
+Gympass style app back-end project
+
+## Objetos de estudo
+
+- Metodologias de testes
+- Docker
+- CI
+- Princípios SOLID
 
 ## RFs (Requisitos funcionais)
 
