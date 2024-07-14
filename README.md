@@ -9,6 +9,8 @@ Gympass style app back-end project
 - CI
 - Princípios SOLID
 
+# Funcionamento da aplicação
+
 ## RFs (Requisitos funcionais)
 
 - [x] Deve ser possível se cadastrar;
